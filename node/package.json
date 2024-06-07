@@ -1,0 +1,17 @@
+{
+  "name": "tools-of-titan",
+  "version": "1.0.0",
+  "description": "General code snippets or scripts to do chores",
+  "main": "random-json-to-xlsx.js",
+  "scripts": {},
+  "keywords": [
+    "scripts",
+    "tools",
+    "easy"
+  ],
+  "author": "apoorvdodiya-agile <apoorva.h@agileinfoways.com>",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

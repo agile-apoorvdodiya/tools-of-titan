@@ -43,7 +43,7 @@ try {
   console.log(data);
 
   // write in xlsx files
-  const outDir = "generated";
+  const outDir = "generated/random-json-to-xlsx";
   const filesName = Date.now() + ".xlsx";
   const dest = join(__dirname, outDir, filesName);
 
